@@ -1695,7 +1695,7 @@
   }
 
   .session-we-will-back-soon {
-    height: 500px;
+    /* height: 500px; */
   }
 
   .text-holder-we-will-back-soon {
@@ -2491,11 +2491,11 @@
     display: -webkit-flex;
     display: -ms-flexbox;
     display: flex;
-    height: 540px;
+    /* height: 540px; */
     margin-right: auto;
-    margin-bottom: 162px;
+    margin-bottom: 109px;
     margin-left: auto;
-    padding-right: 285px;
+    /* padding-right: 285px; */
     padding-left: 0px;
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
@@ -2511,6 +2511,8 @@
     -ms-flex-align: stretch;
     align-items: stretch;
     text-align: center;
+    border: none;
+    border-radius: 0;
   }
 
   .text-holder-we-will-back-soon {
