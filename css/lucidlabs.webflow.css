@@ -513,7 +513,7 @@
   display: -ms-flexbox;
   display: flex;
   width: auto;
-  height: 400px;
+  /* height: 400px; */
   margin-top: 100px;
   margin-bottom: auto;
   -webkit-box-orient: horizontal;
@@ -526,6 +526,7 @@
   border-color: #fff;
   border-radius: 40px;
   background-color: rgba(0, 0, 0, 0.5);
+  overflow: hidden;
 }
 
 .image-6 {
